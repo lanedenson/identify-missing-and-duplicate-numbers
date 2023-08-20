@@ -1,5 +1,4 @@
-#Identify missing and duplicate numbers
-
+# Identify missing and duplicate numbers
 Provide a list of numbers in a plain text file, one
 number per line, titled numbers.txt 
 
